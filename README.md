@@ -37,7 +37,7 @@ I’m on a journey to uncover insights from data and build smart solutions with 
 ## 📬 Contact Me
 📧 Email: [kusma.yourmail@example.com](Priyakusuma724@gmail.com)   
 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/s-kusuma-122180203)  
-🐙 GitHub: [Your GitHub](#)
+
 
 ---
 
