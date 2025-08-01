@@ -1,6 +1,7 @@
 # Hi 👋, I'm S. Kusuma  
 **Aspiring Data Analyst & AI Enthusiast**  
-🔍 Exploring Data for Meaningful Insights | 🤖 Passionate About AI & Intelligent Systems  
+🎯 Focusing:
+I'm an aspiring Data Analyst and Software Tester with a passion for transforming raw data into actionable insights and ensuring high-quality, bug-free applications.| 🤖 Passionate About AI & Intelligent Systems  
 
 ---
 
