@@ -30,13 +30,13 @@ I’m on a journey to uncover insights from data and build smart solutions with 
 
 ## 💼 Projects & Insights
 📌 Check out my work and contributions on [GitHub](#)  
-📄 View my resume [here](#) *(replace with your resume link)*
+
 
 ---
 
 ## 📬 Contact Me
-📧 Email: [kusma.yourmail@example.com](Priyakusuma724@gmail.com)   
-🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/s-kusuma-122180203)  
+📧 Email:Priyakusuma724@gmail.com 
+🔗 LinkedIn: (https://www.linkedin.com/in/s-kusuma-122180203)  
 
 
 ---
